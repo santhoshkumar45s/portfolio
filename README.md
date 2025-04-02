@@ -15,11 +15,11 @@ To run this project locally, run this command on your git bash:
 
 Linux and macOS:
 
-sudo git clone 
+sudo git clone https://github.com/santhoshkumar45s/portfolio.git
 
 Windows:
 
-git clone 
+git clone https://github.com/santhoshkumar45s/portfolio.git
 
 # License
 This project is free to use and does not contains any license.
